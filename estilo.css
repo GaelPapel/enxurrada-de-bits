@@ -1,0 +1,57 @@
+  
+  h1 {
+    color: rgb(5, 158, 13);
+    text-align: center;
+    font-size: 90px;
+    font-family: Comic Sans MS;
+  }
+  h6{
+    text-align: center;
+    font-size: 30px;
+    font-family: Comic Sans MS;
+  }
+  h3 {
+    color: rgb(52, 21, 83);
+    text-align: center; 
+    font-size:120px;
+    font-family: Comic Sans MS;
+  }
+  h4{
+    color: rgb(61, 120, 187);
+    text-align: center; 
+    font-size:120px;
+    font-family: Comic Sans MS;
+  }
+  h5{
+    color: rgb(218, 203, 4);
+    text-align: center; 
+    font-size:120px;
+    font-family: Comic Sans MS;
+  }
+  img {
+    font-size:120px;
+    align-items: center;
+    
+
+  }
+
+  h2 {
+    color: rgb(153, 0, 0);
+    text-align: center;
+    font-family: "Lucida Console"
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  body{
+    background-image: url("img/fundo.png");
+    
+  }
